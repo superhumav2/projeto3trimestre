@@ -21,10 +21,7 @@ body{
 
  float: left;
   height: 450px;
-  width: 650px;
- border-radius: 7px 0 0 7px;
- 
-}
+  margin: ;
 
 .produtoinfo {
  float: left;
@@ -40,3 +37,15 @@ body{
   width: 650px;
 
 }
+
+.produtotexto h1 {
+  margin: 0 0 0 0 38px;
+  padding-top: 1px;
+  font-size: 34px;
+  color: aqua;
+}
+ .produto h2 {
+  margin: 0 0 47px 38px;
+  
+
+ }
